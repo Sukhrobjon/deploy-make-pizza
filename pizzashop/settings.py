@@ -26,7 +26,7 @@ SECRET_KEY = '_z(df7-+9&l9&$+bqjbkk&^u*7cv(@nzgf$i@h%jfnwtt%$^ih'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['make-piz-sg.herokuapp.com',]
+ALLOWED_HOSTS = ['make-piz-sg.herokuapp.com', '127.0.0.1']
 
 
 # Application definition
